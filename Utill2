@@ -1,0 +1,4 @@
+-- Script Provided by Kremmz utillities
+-- kremmz 2024
+-- Scripts discord https://discord.gg/cwWM6mJtvF
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/NiquilSipper240/Deepwoken/main/Utill"),true))()
